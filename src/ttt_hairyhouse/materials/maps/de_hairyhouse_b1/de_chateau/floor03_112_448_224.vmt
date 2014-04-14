@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_CHATEAU/FLOOR03.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_hairyhouse_b1/c112_448_224"
+	}
+}

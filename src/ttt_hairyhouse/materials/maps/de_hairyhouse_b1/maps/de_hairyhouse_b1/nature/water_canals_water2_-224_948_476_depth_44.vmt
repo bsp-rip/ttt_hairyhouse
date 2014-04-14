@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/de_hairyhouse_b1/nature/water_canals_water2_-224_948_476.vmt"
+	"insert"
+	{
+		"$waterdepth"		"44"
+	}
+}

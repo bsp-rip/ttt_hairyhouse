@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_PIRANESI/WOODFLOOR03.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_hairyhouse_b1/c-736_880_320"
+	}
+}

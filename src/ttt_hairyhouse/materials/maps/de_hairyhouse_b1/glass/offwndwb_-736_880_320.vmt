@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/GLASS/OFFWNDWB.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_hairyhouse_b1/c-736_880_320"
+		"$crackmaterial"		"maps/de_hairyhouse_b1/glass/glasswindowbreak070b_-736_880_320"
+	}
+}

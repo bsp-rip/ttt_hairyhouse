@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_NUKE/NUKWINDOWB_LIGHT.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_hairyhouse_b1/c-304_608_320"
+	}
+}

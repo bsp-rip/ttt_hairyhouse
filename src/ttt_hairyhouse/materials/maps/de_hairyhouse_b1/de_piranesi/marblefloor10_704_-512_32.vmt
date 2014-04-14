@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_PIRANESI/MARBLEFLOOR10.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_hairyhouse_b1/c704_-512_32"
+	}
+}

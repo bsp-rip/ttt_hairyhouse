@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_CHATEAU/GROUNDF01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_hairyhouse_b1/c800_-304_-112"
+	}
+}

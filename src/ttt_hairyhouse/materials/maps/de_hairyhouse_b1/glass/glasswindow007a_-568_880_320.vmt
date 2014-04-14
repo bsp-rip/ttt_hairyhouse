@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GLASS/GLASSWINDOW007A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_hairyhouse_b1/c-568_880_320"
+	}
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/MILFLR002.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_hairyhouse_b1/c-144_232_32"
+	}
+}

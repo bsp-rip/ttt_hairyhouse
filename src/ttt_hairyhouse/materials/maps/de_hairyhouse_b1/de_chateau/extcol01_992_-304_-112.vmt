@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_CHATEAU/EXTCOL01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_hairyhouse_b1/c992_-304_-112"
+	}
+}

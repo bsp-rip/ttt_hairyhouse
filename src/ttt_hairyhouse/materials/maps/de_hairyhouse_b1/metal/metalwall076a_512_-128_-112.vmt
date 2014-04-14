@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL076A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_hairyhouse_b1/c512_-128_-112"
+	}
+}

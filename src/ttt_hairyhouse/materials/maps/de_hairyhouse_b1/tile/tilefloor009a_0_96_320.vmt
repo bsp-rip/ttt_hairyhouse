@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEFLOOR009A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_hairyhouse_b1/c0_96_320"
+	}
+}
